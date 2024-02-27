@@ -1,32 +1,29 @@
-# Welcome to My Profile!
+# Hello, I'm Robert 👋
 
-## Web Development
+I'm a passionate **App & Web Developer**, **Graphic & Design Enthusiast**, and **Musician / Independent Artist**. With a background in **Industrial Engineering for Chemistry and Environmental Technology** and a personality marked by empathy and optimism, I aim to make the world a better place through technology and art.
 
-Hello there! 👋 Welcome to my GitHub profile, where creativity and innovation meet web development and design. I'm thrilled to have you here, so let me introduce myself and give you a glimpse into the exciting world of code and design.
+## 🚀 Technical Skills
 
-## About Me
-My name is Robert, and I'm a passionate web developer and designer with extensive experience in the field. Over the years, I've honed my skills in various areas, including:
+### Development
+- **Next.js 14** with App Router, **Typescript**, **Tailwind CSS** – I love creating modern, responsive web applications that are not only functional but aesthetically pleasing as well.
+- **SwiftUI & Xcode** – My toolkit for developing intuitive and user-friendly iOS apps.
+- **Android Studio & Kotlin** – For crafting Android apps that operate seamlessly and efficiently.
+- Architecture Patterns: **MVVM**, **Repository Pattern**
+- Backend: **Firebase/Firestore** for fast and reliable server infrastructure.
 
-- Web Development
-- Web Design
-- UX/UI Design
-- HTML
-- CSS
-- JavaScript
-- React
+### Design
+- **Adobe Creative Cloud**: Proficient in **Photoshop** and **After Effects**. I create visual content that tells stories and effectively conveys messages.
 
-I believe that the web is not just a collection of interconnected pages; it's a canvas where ideas come to life, user experiences are crafted, and boundaries are pushed. With each project I embark on, I strive to create exceptional digital experiences that captivate users and leave a lasting impression.
+## 🎵 Music
+As **ARTEKK**, I delve into the world of **electronic music**, producing tracks ranging from deep melodies to driving beats, merging my technical proficiency with creative expression.
 
-## What Sets Me Apart
-- **Innovation is my middle name:** I have a knack for thinking outside the box and coming up with unique solutions to complex problems. From responsive designs to interactive user interfaces, I'm always pushing the boundaries of what's possible.
+## 🌍 Goal
+My goal is to **do good** and make the world a better place. I firmly believe that technology and art are powerful tools to bring about positive change and unite communities.
 
-- **Experience that speaks volumes:** With many years of experience under my belt, I've worked on diverse projects for clients around the globe. Whether it's a small business website or a complex web application, I bring a wealth of knowledge to the table.
+## 🤝 Connect
+Let's stay in touch! If you're interested in collaborating or just want to talk about technology, design, or music, don't hesitate to reach out.
 
-- **Aesthetic meets functionality:** I believe that great design goes hand in hand with seamless functionality. By blending stunning visuals with intuitive user experiences, I create websites and applications that not only look beautiful but also work flawlessly.
-
-- **Adaptable and versatile:** The tech world is constantly evolving, and I'm always eager to stay up-to-date with the latest trends and technologies. I recently expanded my skill set to include Kotlin and Swift and will be completing my training in February 2024.
-
-Thank you for visiting my profile, and I look forward to collaborating with you soon!
-
-Happy coding! 💻✨
+- 📧 [Email](mailto:ing.robert.schulz@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/whatsadvisor/)
+- 🎶 [LinkTree](https://linktr.ee/edmlovestyle) for my music as ARTEKK
 
